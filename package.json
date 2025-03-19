@@ -27,7 +27,7 @@
         "@vueuse/nuxt": "^10.11.0",
         "autoprefixer": "^10.4.19",
         "bungie-api-ts": "^5.1.0",
-        "nuxt": "^3.12.3",
+        "nuxt": "^3.16.0",
         "postcss": "^8.4.39",
         "tailwindcss": "^3.4.4"
     }
